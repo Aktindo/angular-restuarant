@@ -1,0 +1,18 @@
+.navbar {
+  justify-content: space-between;
+}
+
+span {
+  padding-right: .1rem;
+}
+
+.nav-link {
+  font-size: 16px;
+  margin-right: .3px;
+}
+
+.logo {
+  height: 26px;
+  margin: 0 4px 3px 0;
+  visibility: middle;
+}
